@@ -6,4 +6,5 @@ Using Fire base Authentication and FireStore Database for the application
 * Users can only delete their own posts.
 
 
-[screen-capture blog-app.webm](https://user-images.githubusercontent.com/81660066/214584944-89293d22-29f7-42c9-acfb-93042386f808.webm)
+https://user-images.githubusercontent.com/81660066/214653587-ac8c51b6-90bb-427e-8901-b31303a6ccdb.mp4
+
